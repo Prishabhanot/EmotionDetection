@@ -1,3 +1,5 @@
+#Emotion Detection 
+
 from fer import FER as EmotionRecognizer
 import cv2
 import matplotlib.pyplot as plt
